@@ -41,6 +41,20 @@
 
 ---
 
+### Feats:
+
+- Players start with the **normal 3 feats** for a human fighter.
+
+- **No additional feats** are gained by leveling up.
+
+- **Unlocking Feats:** Feats are unlocked by meeting specific conditions during gameplay.
+
+  - The conditions are unknown to players but may be discovered by beta testers or through exploration.
+
+  - Beta testers may release information on early-game feat unlocks, but late-game feats must be discovered by players.
+
+---
+
 ### Weapon and Armor System:
 
 - **Armor:** Provides no inherent AC bonus. Only **+X armor** grants defensive benefits.
